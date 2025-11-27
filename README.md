@@ -94,7 +94,7 @@ Transformación de un dataset de aparcamientos de *EMT Madrid* siguiendo las bue
 
 **Herramientas**: `Chowlk`, `YARRRML`, `RMLMapper`, `OpenRefine`, `GraphDB`, `Python`, `VSCode`, `Git`
 
-> Repositorio público ― `sw/HandsOn/Group20`
+> Repositorio público ― [`sw/HandsOn/Group20`](https://github.com/lauugr/sw/tree/master/HandsOn/Group20)
 
 ---
 
